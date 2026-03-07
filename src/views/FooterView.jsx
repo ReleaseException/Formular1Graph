@@ -14,7 +14,7 @@ export default function FooterView() {
             </div>
             <div className="mt-6 flex justify-center gap-4">
                 <a 
-                    href="https://github.com" 
+                    href="https://github.com/ReleaseException/Formular1Graph"
                     target="_blank" 
                     rel="noopener noreferrer" 
                     className="text-xs text-stone-400 hover:text-stone-800 transition-colors"
