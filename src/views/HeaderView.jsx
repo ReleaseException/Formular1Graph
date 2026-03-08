@@ -1,5 +1,5 @@
 export default function HeaderView({ raceLabels, currentYear, setYear }) {
-    const years = [2023, 2024, 2025];
+    const years = [2023, 2024, 2025, 2026];
     return (
         <div className="flex justify-between items-start mb-10">
             <div>
