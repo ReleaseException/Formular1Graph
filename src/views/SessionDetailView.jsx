@@ -61,7 +61,7 @@ export function SessionDetailView({ session, results, onClose }) {
                 
                 <div className="px-6 py-4 bg-stone-50 border-t border-stone-100 flex justify-between items-center">
                    <p className="text-[10px] text-stone-300 uppercase tracking-tighter">
-                       Powered by OpenF1 API & Scraping Logic
+                       Powered by official Formula 1 data
                    </p>
                 </div>
             </div>
