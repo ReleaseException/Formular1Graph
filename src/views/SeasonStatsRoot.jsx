@@ -11,7 +11,7 @@ import { SeasonStatsPresenter } from "../presenters/SeasonStatsPresenter.js";
 import FooterView from "./FooterView.jsx";
 
 export default function SeasonStatsRoot() {
-    const [year, setYear] = useState(2025);
+    const [year, setYear] = useState(2026);
     const [raceLabels, setRaceLabels] = useState([]);
     const [raceNames, setRaceNames] = useState([]);
     const [allDrivers, setAllDrivers] = useState([]);
